@@ -5,3 +5,5 @@ Dual OLED display expander panel for Terminal Tedium eurorack module
 See the wiki for more information, including the build guide for this module. https://github.com/NorthCoastModularCollective/Little-Traverse-OLED/wiki/
 
 ![Pic of OLED panel](https://github.com/NorthCoastModularCollective/Little-Traverse-OLED/blob/master/images/IMG_2188.png)
+
+Forked from ![North Coast Modular Collective](https://github.com/NorthCoastModularCollective)
